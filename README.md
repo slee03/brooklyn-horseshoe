@@ -1,6 +1,4 @@
 # brooklyn-horseshoe
-A food tour of the BQ and N lines in Brooklyn's most immigrant-dense neighborhoods. 
-
 This food tour of Brooklyn’s most immigrant-dense neighborhoods along the BQ and N subway lines includes an interactive map, photos of the restaurants and food, and accompanying text. 
 
 A trip along the BQ and N subway lines in Brooklyn is an international culinary adventure. Nicknamed the “Brooklyn Horseshoe”, the subway lines traverse a chain of neighborhoods with extremely high immigrant concentration and diversity.
