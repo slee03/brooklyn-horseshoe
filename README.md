@@ -9,7 +9,7 @@ Starting at the northwest tip of the Horseshoe, the neighborhoods of Sunset Park
 
 The diverse populations engender culinary offerings that are just as varied. We headed to dumpling shops, Russian restaurants, jerk chicken joints to find out the stories and people who serve their community a taste of home. 
 
-
+<b>Methodology</b>
 
 
 
