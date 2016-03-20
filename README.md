@@ -13,7 +13,7 @@ The diverse populations engender culinary offerings that are just as varied. We 
 
 The project was completed by Alyssa Pagano and Samantha Lee. 
 
-We used data from the NYC Department of City Planning. Their latest report on New York City’s immigrants, <a href="http://www1.nyc.gov/assets/planning/download/pdf/data-maps/nyc-population/nny2013/nny_2013.pdf>The Newest New Yorkers</a>, was published in 2013. One of report’s main findings indicated that Brooklyn now trails closely behind Queens in terms of immigrant population, with almost 1 million immigrants. Moreover, Brooklyn’s immigrant diversity is also described as “remarkable”, with Chinese, Dominicans, Mexicans, Ecuadorians, Jamaicans, Haitians, Russians, Ukrainians, and more. 
+We used data from the NYC Department of City Planning. Their latest report on New York City’s immigrants, <a href="http://www1.nyc.gov/assets/planning/download/pdf/data-maps/nyc-population/nny2013/nny_2013.pdf">The Newest New Yorkers</a>, was published in 2013. One of report’s main findings indicated that Brooklyn now trails closely behind Queens in terms of immigrant population, with almost 1 million immigrants. Moreover, Brooklyn’s immigrant diversity is also described as “remarkable”, with Chinese, Dominicans, Mexicans, Ecuadorians, Jamaicans, Haitians, Russians, Ukrainians, and more. 
 
 Data collected by the department also indicated that many of these immigrants were clustered around the BQ and N subway lines which run through several neighborhoods in Brooklyn. These neighborhoods included Sunset Park and Bensonhurst (mainly Chinese), Brighton Beach and Sheepshead Bay (mainly Russians and Ukrainians), Flatbush and Prospect Lefferts Gardens (immigrants from the nonhispanic Carribbean). 
 
